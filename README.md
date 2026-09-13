@@ -9,7 +9,7 @@
 ![License](https://img.shields.io/badge/license-proprietary-6b7280?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20Web-4C7A6B?style=flat-square)
 
-[Открыть в браузере](https://notchy-ru.github.io/nookly-release/) · [Скачать](https://github.com/notchy-ru/nookly-release/releases) · [Changelog](CHANGELOG.md) · [Issues](https://github.com/notchy-ru/nookly-release/issues)
+[Открыть в браузере](https://nooklyru.github.io/nookly-release/) · [Скачать](https://github.com/nooklyru/nookly-release/releases) · [Changelog](CHANGELOG.md) · [Issues](https://github.com/nooklyru/nookly-release/issues)
 
 </div>
 
@@ -71,11 +71,11 @@ Nookly — страницы, блоки, таблицы и канбан-доск
 
 ## В браузере
 
-Веб-версия на [GitHub Pages](https://notchy-ru.github.io/nookly-release/). Данные остаются в браузере (IndexedDB / SQLite WASM), на сервер не уходят.
+Веб-версия на [GitHub Pages](https://nooklyru.github.io/nookly-release/). Данные остаются в браузере (IndexedDB / SQLite WASM), на сервер не уходят.
 
 ## Скачать
 
-Один архив — и приложение готово. Файлы в [Releases](https://github.com/notchy-ru/nookly-release/releases).
+Один архив — и приложение готово. Файлы в [Releases](https://github.com/nooklyru/nookly-release/releases).
 
 | Платформа | Файл | Как запускать |
 |---|---|---|
@@ -84,7 +84,7 @@ Nookly — страницы, блоки, таблицы и канбан-доск
 
 ## Обратная связь
 
-Баги и идеи — во [Issues](https://github.com/notchy-ru/nookly-release/issues). Код и pull request с исходниками не принимаются.
+Баги и идеи — во [Issues](https://github.com/nooklyru/nookly-release/issues). Код и pull request с исходниками не принимаются.
 
 ## Лицензия
 

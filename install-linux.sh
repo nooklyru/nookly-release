@@ -2,7 +2,7 @@
 # Загрузчик Nookly для Linux (x64).
 set -euo pipefail
 
-REPO="notchy-ru/nookly-release"
+REPO="nooklyru/nookly-release"
 TAG="${NOOKLY_VERSION:-v0.1.0}"
 NAME="nookly-${TAG#v}-linux-x64.tar.gz"
 URL="https://github.com/${REPO}/releases/download/${TAG}/${NAME}"
