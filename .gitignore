@@ -16,9 +16,7 @@ build.yaml
 .flutter-plugins-dependencies
 build/
 coverage/
-docs/
 CONTRIBUTING.md
-.github/
 
 # Локальное
 .cursor/

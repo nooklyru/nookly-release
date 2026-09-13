@@ -9,7 +9,7 @@
 ![License](https://img.shields.io/badge/license-proprietary-6b7280?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20Web-4C7A6B?style=flat-square)
 
-[Скачать](https://github.com/notchy-ru/nookly-release/releases) · [Changelog](CHANGELOG.md) · [Issues](https://github.com/notchy-ru/nookly-release/issues)
+[Открыть в браузере](https://notchy-ru.github.io/nookly-release/) · [Скачать](https://github.com/notchy-ru/nookly-release/releases) · [Changelog](CHANGELOG.md) · [Issues](https://github.com/notchy-ru/nookly-release/issues)
 
 </div>
 
@@ -68,6 +68,10 @@ Nookly — страницы, блоки, таблицы и канбан-доск
 - **Дерево страниц** — любой глубины, с эмодзи-иконками и перетаскиванием
 - **Офлайн** — ни один байт не уходит на сторону
 - **Адаптивный интерфейс** — боковая панель прячется на узких экранах
+
+## В браузере
+
+Веб-версия на [GitHub Pages](https://notchy-ru.github.io/nookly-release/). Данные остаются в браузере (IndexedDB / SQLite WASM), на сервер не уходят.
 
 ## Скачать
 
