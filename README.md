@@ -9,7 +9,7 @@
 ![License](https://img.shields.io/badge/license-proprietary-6b7280?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20Web-4C7A6B?style=flat-square)
 
-[Скачать](https://github.com/nooklyru/nookly-release/releases) · [Changelog](CHANGELOG.md) · [Issues](https://github.com/nooklyru/nookly-release/issues)
+[Web-версия](https://nooklyru.github.io/nookly-release/) · [Скачать](https://github.com/nooklyru/nookly-release/releases) · [Changelog](CHANGELOG.md) · [Issues](https://github.com/nooklyru/nookly-release/issues)
 
 </div>
 
