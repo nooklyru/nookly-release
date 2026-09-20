@@ -77,7 +77,8 @@ Nookly — страницы, блоки, таблицы и канбан-доск
 |---|---|---|
 | Windows x64 | `nookly-0.1.0-windows-x64.zip` | Распаковать папку целиком и открыть `nookly.exe` (один exe без `dll` и `data` не запустится) |
 | Linux x64 | `nookly-0.1.0-linux-x64.tar.gz` + [install-linux.sh](install-linux.sh) | `curl -fsSL https://raw.githubusercontent.com/nooklyru/nookly-release/main/install-linux.sh \| bash` |
-| Браузер | — | Открыть [nooklyru.github.io/nookly-release](https://nooklyru.github.io/nookly-release/) — без скачивания |
+| Веб-версия | — | Открыть [nooklyru.github.io/nookly-release](https://nooklyru.github.io/nookly-release/) — без скачивания |
+| Веб-сайт | — | Открыть (https://nookly.ru/) |
 
 ## Обратная связь
 
