@@ -5,7 +5,7 @@
 **Всё, что вы пишете, остаётся у вас.**
 Без аккаунта. Без облака. Без интернета.
 
-![Version](https://img.shields.io/badge/version-0.1.0-4C7A6B?style=flat-square)
+![Version](https://img.shields.io/badge/version-0.2.1-4C7A6B?style=flat-square)
 ![License](https://img.shields.io/badge/license-proprietary-6b7280?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20Web-4C7A6B?style=flat-square)
 
@@ -75,8 +75,8 @@ Nookly — страницы, блоки, таблицы и канбан-доск
 
 | Платформа | Файл | Как запускать |
 |---|---|---|
-| Windows x64 | `nookly-0.1.0-windows-x64.zip` | Распаковать папку целиком и открыть `nookly.exe` (один exe без `dll` и `data` не запустится) |
-| Linux x64 | `nookly-0.1.0-linux-x64.tar.gz` + [install-linux.sh](install-linux.sh) | `curl -fsSL https://raw.githubusercontent.com/nooklyru/nookly-release/main/install-linux.sh \| bash` |
+| Windows x64 | `nookly-0.2.1-windows-x64.zip` | Распаковать папку целиком и открыть `nookly.exe` (один exe без `dll` и `data` не запустится) |
+| Linux x64 | `nookly-0.2.1-linux-x64.tar.gz` + [install-linux.sh](install-linux.sh) | `curl -fsSL https://raw.githubusercontent.com/nooklyru/nookly-release/main/install-linux.sh \| bash` |
 | Веб-версия | — | Открыть [nooklyru.github.io/nookly-release](https://nooklyru.github.io/nookly-release/) — без скачивания |
 | Веб-сайт | — | Открыть (https://nookly.ru/) |
 
